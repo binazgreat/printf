@@ -9,11 +9,3 @@ The format tags prototype is the following:
 If the program runs successfully, the return value is the amount of chars printed.
 _printf.c
 Own Printf Function That Performs Formatted Output Conversion And Print Data.
-holberton.h
-Header File Where All Prototypes Are Saved.
-get_print_func.c
-Pointer To A Function That Selects The Correct Function To Perform The Operation
-print_buf.c
-Function That Prints The Buffer
-handl_buf.c
-Function That Concatenates The Buffer Characters.
